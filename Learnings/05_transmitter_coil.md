@@ -2,6 +2,8 @@
 
 The transmitter coil is placed on the charging pad or ground side and is connected to the inverter output.
 
+“The transmitter coil converts high-frequency electrical energy into magnetic energy.”
+
 ### Electrical Input to Transmitter Coil
 - Type: High-frequency AC
 - Source: Inverter (DC to AC conversion)
